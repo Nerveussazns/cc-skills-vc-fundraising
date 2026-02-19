@@ -1,0 +1,28 @@
+{
+  "name": "vc-fundraising-marketplace",
+  "owner": {
+    "name": "Travis Boudreaux",
+    "email": "travis@azragames.com"
+  },
+  "metadata": {
+    "description": "VC Fundraising & Investor Relations Toolkit for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "vc-fundraising",
+      "source": "./",
+      "description": "Comprehensive VC fundraising toolkit with pitch analysis, narrative building, Q&A coaching, fundraise planning, investor updates, and board deck preparation -- grounded in first principles from Sequoia, a16z, Benchmark, YC, and enhanced with structured thinking frameworks",
+      "version": "1.0.0",
+      "category": "business",
+      "tags": [
+        "vc-fundraising",
+        "pitch-deck",
+        "investor-relations",
+        "startup",
+        "venture-capital",
+        "board-deck"
+      ]
+    }
+  ]
+}
