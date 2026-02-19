@@ -22,8 +22,5 @@
     "pitch-review",
     "sequoia",
     "first-principles"
-  ],
-  "peerDependencies": {
-    "thinking-skills": ">=1.0.0"
-  }
+  ]
 }
